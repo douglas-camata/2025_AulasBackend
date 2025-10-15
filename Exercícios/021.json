@@ -1,0 +1,16 @@
+{
+    "nome": "João Carlos",
+    "username": "jcarlos",
+    "seguidores": 1000000,
+    "seguindo": 1000,
+    "posts": [
+        {
+            "legenda": "Meu primeiro post",
+            "likes": 1000
+        }, 
+        {
+            "legenda": "Meu segundo post",
+            "likes": 2000
+        }
+    ]
+}
